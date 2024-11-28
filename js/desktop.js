@@ -16,7 +16,7 @@ $(function(){
         {name:'影视',url:'https://youku.xm08.cn/',icon:'./img/h.webp'},
         {name:'站长工具箱',url:'//tool.hzyo.cn',icon:'./img/tool.png'},
         {name:'音乐',url:'http://mp3.hzyo.cn/',icon:'https://picabstract-preview-ftn.weiyun.com/ftn_pic_abs_v3/a89916f469fd6d47b88662c73f94fec26a624d62ef514c8790a392906b2b3875f78629d6a6a6e50bff239b64ac8dbd14?pictype=scale&from=30111&version=3.3.3.3&fname=u%3D3242640730%2C2816196037%26fm%3D253%26fmt%3Dauto%26app%3D138%26f%3DJPEG.webp&size=1024'},
-        {name:'赞助支持',url:'https://hzyo.cn/project/zz/',icon:'./img/6.png'},
+        {name:'赞助支持',url:'https://hzyo.cn/zz/',icon:'./img/6.png'},
 
     ]
     for(var i in tools){
